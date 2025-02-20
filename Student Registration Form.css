@@ -1,0 +1,26 @@
+h1{
+  background-color: #060f4f;
+  color: #fafafa;
+  text-align: center;
+  Font-family: fantasy;
+}
+p{
+  font-family: "bold",sans-serif;
+   font-size: 25px;
+}
+html{
+  background-color: #1a2463;
+  color: white;
+  text-align: center;
+}
+body{
+background-color:#424c8a;
+margin-top: 5em;
+margin-left: 18em;
+margin-right: 18em;
+margin-bottom: 5em;
+}
+label{
+  background-color: #1a2463;
+  font-family: arial;
+}
