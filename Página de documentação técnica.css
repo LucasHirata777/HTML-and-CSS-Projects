@@ -1,4 +1,4 @@
-@media (max-width: 1000px) {
+@media (max-width: 900px) {
   body { font-size: 16px; }
 }
 
@@ -6,6 +6,7 @@
   font-family: fantasy;
   font-size: 20px;
   Font-color: black;
+  text-align: left;
 }
 
 #main-doc {
@@ -14,7 +15,18 @@
   background-color: white;
   margin-top: -350px;
   margin-bottom: 100px;
+  padding: 50px;
 }
  header {
 font-size: 40px;
+}
+
+#main-doc {
+  Border-left: 1px solid black;
+}
+
+a{
+  color: black;
+  border: 1px solid black;
+  padding: 5px;
 }
